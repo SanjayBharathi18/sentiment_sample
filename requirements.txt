@@ -2,9 +2,11 @@ Flask==2.2.2
 flask_cors==5.0.1
 google_api_python_client==2.165.0
 nltk==3.7
+numpy==1.23.5
 pandas==1.5.3
 Requests==2.32.3
 transformers==4.24.0
+torch==2.0.1
 gunicorn==20.1.0
 werkzeug==2.3.7
 
